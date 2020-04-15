@@ -9,5 +9,5 @@ endpoints:
 
 2. wish message
 
-	/wish?name=<name>
+	/wish?name=harry
 
