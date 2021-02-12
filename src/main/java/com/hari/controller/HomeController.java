@@ -15,7 +15,7 @@ public class HomeController {
 	
 	@GetMapping("/wish")
 	public String wish(@RequestParam String name) {
-		return "Hello " + StringUtils.capitalize(name) + ", Wish you all the best in this world!!!";
+		return "Hello Test Change" + StringUtils.capitalize(name) + ", Wish you all the best in this world!!!";
 	}
 
 }
